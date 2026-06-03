@@ -134,8 +134,6 @@ ecg_classification_lstm.ipynb
 ## 👨‍💻 Author
 
 **Tanmay Tripathi**  
-B.Tech CSE Student  
-Central University of Jammu
 
 ---
 
