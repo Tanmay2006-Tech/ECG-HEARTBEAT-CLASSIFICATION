@@ -1,0 +1,11 @@
+{
+  "input_shape": [
+    187,
+    1
+  ],
+  "num_classes": 5,
+  "epochs_trained": 50,
+  "final_val_accuracy": 0.9866757988929749,
+  "best_val_accuracy": 0.9866757988929749,
+  "test_accuracy": 0.9856112003326416
+}
